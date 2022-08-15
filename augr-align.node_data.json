@@ -1,0 +1,478 @@
+{
+  "alignment": "augr-align.fasta",
+  "generated_by": {
+    "program": "augur",
+    "version": "17.0.0"
+  },
+  "input_tree": "augr-tree",
+  "nodes": {
+    "AFG20-ENV284E2": {
+      "branch_length": 0.00443823
+    },
+    "AFG21-003": {
+      "branch_length": 0.00221738
+    },
+    "AFG22-189": {
+      "branch_length": 0.00777654
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001
+    },
+    "NODE_0000001": {
+      "branch_length": 0.00555901
+    },
+    "NODE_0000002": {
+      "branch_length": 0.00446131
+    },
+    "NODE_0000003": {
+      "branch_length": 2.7e-06
+    },
+    "NODE_0000004": {
+      "branch_length": 0.0111667
+    },
+    "NODE_0000005": {
+      "branch_length": 0.00668253
+    },
+    "NODE_0000006": {
+      "branch_length": 0.00105508
+    },
+    "NODE_0000007": {
+      "branch_length": 2.1e-06
+    },
+    "NODE_0000008": {
+      "branch_length": 0.00110147
+    },
+    "NODE_0000009": {
+      "branch_length": 0.00334652
+    },
+    "NODE_0000010": {
+      "branch_length": 0.01004869
+    },
+    "NODE_0000011": {
+      "branch_length": 0.00109199
+    },
+    "NODE_0000012": {
+      "branch_length": 2.19e-06
+    },
+    "NODE_0000013": {
+      "branch_length": 0.00222727
+    },
+    "NODE_0000014": {
+      "branch_length": 0.00110279
+    },
+    "NODE_0000015": {
+      "branch_length": 2.11e-06
+    },
+    "NODE_0000016": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000017": {
+      "branch_length": 2.91e-06
+    },
+    "NODE_0000018": {
+      "branch_length": 2.36e-06
+    },
+    "NODE_0000019": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000020": {
+      "branch_length": 0.00221198
+    },
+    "NODE_0000021": {
+      "branch_length": 2.21e-06
+    },
+    "NODE_0000022": {
+      "branch_length": 0.00110282
+    },
+    "NODE_0000023": {
+      "branch_length": 0.00110486
+    },
+    "NODE_0000024": {
+      "branch_length": 0.001108
+    },
+    "NODE_0000025": {
+      "branch_length": 0.00221255
+    },
+    "NODE_0000026": {
+      "branch_length": 0.00110277
+    },
+    "NODE_0000027": {
+      "branch_length": 0.00332636
+    },
+    "NODE_0000028": {
+      "branch_length": 2.47e-06
+    },
+    "NODE_0000029": {
+      "branch_length": 0.00443678
+    },
+    "NODE_0000030": {
+      "branch_length": 2.53e-06
+    },
+    "NODE_0000031": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000032": {
+      "branch_length": 0.00113558
+    },
+    "NODE_0000033": {
+      "branch_length": 0.00222079
+    },
+    "NODE_0000034": {
+      "branch_length": 0.00114562
+    },
+    "NODE_0000035": {
+      "branch_length": 0.00554182
+    },
+    "NODE_0000036": {
+      "branch_length": 2.44e-06
+    },
+    "NODE_0000037": {
+      "branch_length": 2.79e-06
+    },
+    "NODE_0000038": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000039": {
+      "branch_length": 2e-06
+    },
+    "NODE_0000040": {
+      "branch_length": 2.74e-06
+    },
+    "NODE_0000041": {
+      "branch_length": 0.00110485
+    },
+    "NODE_0000042": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000043": {
+      "branch_length": 0.00110472
+    },
+    "NODE_0000044": {
+      "branch_length": 2.49e-06
+    },
+    "NODE_0000045": {
+      "branch_length": 0.00443533
+    },
+    "NODE_0000046": {
+      "branch_length": 2.42e-06
+    },
+    "NODE_0000047": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000048": {
+      "branch_length": 0.00110485
+    },
+    "NODE_0000049": {
+      "branch_length": 2.13e-06
+    },
+    "NODE_0000050": {
+      "branch_length": 0.0011052
+    },
+    "NODE_0000051": {
+      "branch_length": 0.00110453
+    },
+    "NODE_0000052": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000053": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000054": {
+      "branch_length": 2.98e-06
+    },
+    "NODE_0000055": {
+      "branch_length": 0.00110451
+    },
+    "NODE_0000056": {
+      "branch_length": 2.73e-06
+    },
+    "NODE_0000057": {
+      "branch_length": 2.02e-06
+    },
+    "NODE_0000058": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000059": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000060": {
+      "branch_length": 0.00109331
+    },
+    "NODE_0000061": {
+      "branch_length": 0.00219749
+    },
+    "NODE_0000062": {
+      "branch_length": 0.00670298
+    },
+    "NODE_0000063": {
+      "branch_length": 2.14e-06
+    },
+    "NODE_0000064": {
+      "branch_length": 0.00109591
+    },
+    "NODE_0000065": {
+      "branch_length": 0.00110333
+    },
+    "NODE_0000066": {
+      "branch_length": 0.00444263
+    },
+    "NODE_0000067": {
+      "branch_length": 0.00110616
+    },
+    "NODE_0000068": {
+      "branch_length": 0.00110917
+    },
+    "NODE_0000069": {
+      "branch_length": 0.00110485
+    },
+    "NODE_0000070": {
+      "branch_length": 2.08e-06
+    },
+    "NODE_0000071": {
+      "branch_length": 0.00222504
+    },
+    "NODE_0000072": {
+      "branch_length": 0.00108487
+    },
+    "NODE_0000073": {
+      "branch_length": 0.00335259
+    },
+    "NODE_0000074": {
+      "branch_length": 0.00333298
+    },
+    "NODE_0000075": {
+      "branch_length": 0.00443413
+    },
+    "NODE_0000076": {
+      "branch_length": 0.01003692
+    },
+    "PAK20-10092": {
+      "branch_length": 0.00110569
+    },
+    "PAK20-11742": {
+      "branch_length": 0.00894562
+    },
+    "PAK20-13467": {
+      "branch_length": 0.00110526
+    },
+    "PAK20-2903": {
+      "branch_length": 0.00332878
+    },
+    "PAK20-6471": {
+      "branch_length": 2.53e-06
+    },
+    "PAK20-9920": {
+      "branch_length": 2.61e-06
+    },
+    "PAK20-9921": {
+      "branch_length": 0.00110424
+    },
+    "PAK20-ENV-BMS529E1": {
+      "branch_length": 2.74e-06
+    },
+    "PAK20-ENV-BMS530E1": {
+      "branch_length": 0.00444605
+    },
+    "PAK20-ENV-BMS554E2": {
+      "branch_length": 0.00445014
+    },
+    "PAK20-ENV204RD": {
+      "branch_length": 0.00443136
+    },
+    "PAK20-ENV243E1": {
+      "branch_length": 0.00221176
+    },
+    "PAK20-ENV276RD": {
+      "branch_length": 0.00109788
+    },
+    "PAK20-ENV402E2": {
+      "branch_length": 0.00110751
+    },
+    "PAK20-ENV412E1": {
+      "branch_length": 2.54e-06
+    },
+    "PAK20-ENV420E1": {
+      "branch_length": 0.00110446
+    },
+    "PAK20-ENV447E1": {
+      "branch_length": 2.26e-06
+    },
+    "PAK20-ENV464E1": {
+      "branch_length": 0.00333785
+    },
+    "PAK20-ENV466RD": {
+      "branch_length": 0.00555786
+    },
+    "PAK20-ENV513E1": {
+      "branch_length": 0.00221114
+    },
+    "PAK20-ENV515E1": {
+      "branch_length": 0.00332412
+    },
+    "PAK20-ENV529E2": {
+      "branch_length": 0.00221121
+    },
+    "PAK20-ENV541E4": {
+      "branch_length": 0.00110549
+    },
+    "PAK20-ENV575E5": {
+      "branch_length": 0.00443662
+    },
+    "PAK20-ENV595E2": {
+      "branch_length": 0.0066418
+    },
+    "PAK20-ENV602E3": {
+      "branch_length": 0.0066907
+    },
+    "PAK20-ENV603E1": {
+      "branch_length": 0.01222523
+    },
+    "PAK20-ENV606E2": {
+      "branch_length": 0.0011046
+    },
+    "PAK20-ENV607E2": {
+      "branch_length": 2.08e-06
+    },
+    "PAK20-ENV621E1": {
+      "branch_length": 2.13e-06
+    },
+    "PAK20-ENV622RD": {
+      "branch_length": 2.2e-06
+    },
+    "PAK20-ENV629E2": {
+      "branch_length": 0.00331991
+    },
+    "PAK20-ENV650E1": {
+      "branch_length": 0.00333223
+    },
+    "PAK20-ENV666E1": {
+      "branch_length": 0.00110486
+    },
+    "PAK20-ENV669E1": {
+      "branch_length": 2.66e-06
+    },
+    "PAK20-ENV673E5": {
+      "branch_length": 0.00110534
+    },
+    "PAK20-ENV703E2": {
+      "branch_length": 0.00443717
+    },
+    "PAK20-ENV715RD": {
+      "branch_length": 0.00554368
+    },
+    "PAK20-ENV740RD": {
+      "branch_length": 0.0011069
+    },
+    "PAK20-ENV744E5": {
+      "branch_length": 0.00332058
+    },
+    "PAK20-ENV753E1": {
+      "branch_length": 0.00892335
+    },
+    "PAK20-ENV758E2": {
+      "branch_length": 0.00221037
+    },
+    "PAK20-ENV791RD": {
+      "branch_length": 0.00332263
+    },
+    "PAK20-ENV806E2": {
+      "branch_length": 0.00332103
+    },
+    "PAK20-ENV809E1": {
+      "branch_length": 0.00443305
+    },
+    "PAK20-ENV810E3": {
+      "branch_length": 0.00110508
+    },
+    "PAK21-962": {
+      "branch_length": 0.00332329
+    },
+    "PAK21-ENV-BMS568E1": {
+      "branch_length": 0.00444371
+    },
+    "PAK21-ENV-BMS575E3": {
+      "branch_length": 0.00110324
+    },
+    "PAK21-ENV-BMS597E1": {
+      "branch_length": 2.44e-06
+    },
+    "PAK21-ENV-BMS614E4": {
+      "branch_length": 0.00220909
+    },
+    "PAK21-ENV-BMS694E1": {
+      "branch_length": 0.00333002
+    },
+    "PAK21-ENV-BMS694E3": {
+      "branch_length": 0.00557625
+    },
+    "PAK21-ENV002E1": {
+      "branch_length": 2.08e-06
+    },
+    "PAK21-ENV012E4": {
+      "branch_length": 0.00443314
+    },
+    "PAK21-ENV050RD": {
+      "branch_length": 0.00778386
+    },
+    "PAK21-ENV054E4": {
+      "branch_length": 2.24e-06
+    },
+    "PAK21-ENV057RD": {
+      "branch_length": 0.00555035
+    },
+    "PAK21-ENV073E1": {
+      "branch_length": 0.0055597
+    },
+    "PAK21-ENV077E2": {
+      "branch_length": 0.01228223
+    },
+    "PAK21-ENV108E2": {
+      "branch_length": 0.00333109
+    },
+    "PAK21-ENV123E4": {
+      "branch_length": 0.00891281
+    },
+    "PAK21-ENV124E4": {
+      "branch_length": 0.00554366
+    },
+    "PAK21-ENV131E2": {
+      "branch_length": 0.00671936
+    },
+    "PAK21-ENV142E3": {
+      "branch_length": 0.01002027
+    },
+    "PAK21-ENV143E2": {
+      "branch_length": 1e-06
+    },
+    "PAK21-ENV144E1": {
+      "branch_length": 0.00555204
+    },
+    "PAK21-ENV203E2": {
+      "branch_length": 1e-06
+    },
+    "PAK21-ENV213E1": {
+      "branch_length": 0.00221001
+    },
+    "PAK21-ENV409E3": {
+      "branch_length": 2.48e-06
+    },
+    "PAK21-ENV479E5": {
+      "branch_length": 0.00331994
+    },
+    "PAK21-ENV520E4": {
+      "branch_length": 0.0100814
+    },
+    "PAK21-ENV752RD": {
+      "branch_length": 0.00110519
+    },
+    "PAK21-ENV790RD": {
+      "branch_length": 2.81e-06
+    },
+    "PAK22-5375": {
+      "branch_length": 0.00783219
+    },
+    "PAK22-ENV-BMS746E3": {
+      "branch_length": 0.00672475
+    }
+  }
+}
